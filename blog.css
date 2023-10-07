@@ -1,0 +1,135 @@
+/* blog.css */
+
+/* Update the class selector to match the new class name in JavaScript */
+.new.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/* Center the slider container using flexbox */
+.slider-container {
+  display: flex;
+  justify-content: center;
+}
+
+/* Add a border to the .new-box class */
+/* blog.css */
+
+/* Add a border to the .new.box class */
+/* blog.css */
+
+/* Add a container for the background shape */
+/* blog.css */
+
+/* Add a container for the background shape */
+/* blog.css */
+
+/* Add a container for the background shape */
+/* blog.css */
+
+/* Add a container for the content */
+/* blog.css */
+
+/* Add a container for the content */
+.content-container {
+  position: relative;
+  z-index: 1; /* Ensure content is on top of the background */
+  background-color: #fff; /* Background color of the content container */
+  padding: 20px; /* Add padding to separate content from background */
+}
+
+/* Create a bottom curve using ::before */
+.content-container::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px; /* Adjust the curve height */
+  background-color: #007bff; /* Background color of the curve */
+  border-radius: 50% 50% 0 0; /* Create a curved shape at the bottom */
+}
+
+/* ... (other CSS rules) */
+
+/* ... (other CSS rules) */
+
+
+/* ... (other CSS rules) */
+
+
+/* ... (other CSS rules) */
+
+
+
+
+/* ... (other CSS rules) */
+
+.new.box {
+  margin: 20px;
+  padding: 0;
+  border: 1px solid #ccc; /* Add a border to distinguish items */
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  transition: transform 0.3s ease;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ... (other CSS rules) */
+
+
+/* ... (other CSS rules) */
+
+/* Update the class selector to match the new class name in JavaScript */
+.new-image-wrapper {
+  text-align: center;
+  flex-grow: 1; /* Let the image occupy the upper half */
+  overflow: hidden;
+  position: relative;
+}
+
+/* Update the class selector to match the new class name in JavaScript */
+img[alt="New Image Name"] {
+  width: 100%;
+  height: 50%; /* Set height to occupy the upper half */
+  object-fit: cover;
+  object-position: top; /* Position the image at the top */
+}
+
+/* Update the class selector to match the new class name in JavaScript */
+.new-box-desc {
+  padding: 20px;
+}
+
+/* Update the class selector to match the new class name in JavaScript */
+h4 {
+  font-size: 20px;
+  margin: 0;
+}
+
+/* Update the class selector to match the new class name in JavaScript */
+p {
+  font-size: 16px;
+  color: #555;
+}
+
+/* Update the class selector to match the new class name in JavaScript */
+a {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #007bff;
+  transition: color 0.3s ease;
+}
+
+/* Update the class selector to match the new class name in JavaScript */
+a:hover {
+  color: #0056b3;
+}
+
+/* ... (other CSS rules) */
