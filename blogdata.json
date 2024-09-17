@@ -1,0 +1,146 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "name": "Delhi Ordinance Bill",
+            "content": "There shall be an Authority to be known as the National Capital Civil Service Authority to exercise the powers conferred on, and discharge the functions assigned to it under this Part ....",
+            "Read more": "./blogs/delhi-ordinance-bill.html",
+            "image":"https://i.postimg.cc/Jh8TY7rK/Whats-App-Image-2023-08-10-at-10-05-01-PM.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Sedition Law In India",
+            "content": "Section 124A of Indian Penal code, 1860, British Crown Whoever, by words, either spoken or written, or by signs, or by visible representation, or otherwise, brings or attempts to bring into hatred contempt,...",
+            "Read more": "./blogs/sedition-law-in-india.html",
+            "image":"https://i.postimg.cc/3RQSbH2m/1.png"
+        },
+        {
+            "id": 3,
+            "name": "Adani Group - The Hindenburg Report",
+            "content": "Nathan Anderson, who founded the company, worked as a Chartered Financial Analyst who usually identifies companies' risk measures...",
+            "Read more": "./blogs/hindenburg-report.html",
+            "image":"https://i.postimg.cc/zv3G8g5x/Whats-App-Image-2023-03-18-at-2-16-05-AM.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Women in Indian Armed Forces",
+            "content": "The inclusion of women in the Indian Armed Forces started in the year 1888 with the formation of the Indian Military Nursing Service during the Colonial period. With the outbreak of World War I and II...",
+            "Read more": "./blogs/women-in-armed-forces.html",
+            "image":"https://i.postimg.cc/9fL8mg34/png-20230309-164914-0000.png"
+        },
+        {
+            "id": 5,
+            "name": "G20 Presidency of India : New Opportunities?",
+            "content": "\"The need of the hour is to show concrete and collective resolve to ensure peace, harmony and security in the world. I am confident that next year when the G20 meets in the holy land of Buddha and Gandhi, we will all agree to convey a strong message of peace to the world.\"",
+            "Read more": "./blogs/g20.html",
+            "image":"https://i.postimg.cc/0yjsyfS2/photo.webp"
+        },
+        {
+            "id": 6,
+            "name": "Uniform Civil Code : Past and Present",
+            "content": "Uniform Civil Code is a proposal to create and enforce personal laws that apply to all people equally, regardless of their gender, sexual orientation, or religion. Implementation...",
+            "Read more": "./blogs/Uniform-Civil-Code.html",
+            "image":"https://i.postimg.cc/QxK0jm1K/Uniform-Civil-Code.png"
+        },
+        {
+            "id": 7,
+            "name": "Revisiting Women's Safety in India",
+            "content": "The nation was shocked ten years ago; on this day, 16th September 2012, a brutal rape and assault occurred on a 22-year-old physiotherapy intern at the Munirka Locality of...",
+            "Read more": "./blogs/Revisiting-Women-Safety-India.html",
+            "image":"https://i.postimg.cc/6306S0Mc/Whats-App-Image-2022-12-16-at-15-25-40.jpg"
+            
+        },
+        {
+            "id": 8,
+            "name": "Global Food Crisis",
+            "content": "Food safety, as described by the United Nations Committee on global meals security, is the way that every person always has the physical, social, and monetary right of entry to ...",
+            "Read more": "./blogs/Global-Food_crisis.html",
+            "image":"https://i.postimg.cc/NfWdKWRj/GLOBAL-FOOD-CRISIS.png"
+        },
+        {
+            "id": 9,
+            "name": "The British Revolving Door",
+            "content": "Rishi Sunak was sworn in as the first Asian British prime minister of the United Kingdom on 24 October 2022. In an unprecedented revolving door leading to Downing Street ...",
+            "Read more": "./blogs/The-british-revolving-door.html",
+            "image":"https://i.postimg.cc/G38DtB6D/Opine-Matters.png"
+        },
+        {
+            "id": 10,
+            "name": "India and the Middle East - Economic and Energy Partnership",
+            "content": "Energy Security is one of the significant pillars of securing national interest. Amid the crisis, we have seen how Oil and natural gas can be used ...",
+            "Read more": "./blogs/India-and-the-Middle-East-Economic-and-Energy-Partnership.html",
+            "image":"https://i.postimg.cc/Hk8Z2rsj/India.png"
+        },
+        {
+            "id": 11,
+            "name": "Fall is an old Love Affair",
+            "content": "August 15, 1947, seems like long time ago. It indeed was. Seven-and-half decades might be a long period of your time, though it is but a fleeting moment in the history...",
+            "Read more": "./blogs/Fall-is-an-old-love-affair.html",
+            "image":"https://i.postimg.cc/Bv2yJ2R7/download-4.pngbnhmmn"
+        },
+        {
+            "id": 12,
+            "name": "Israel Palestine confilct",
+            "content": "Along history of antisemitism (discrimination against Jews as a religious, ethnic or racial group) in the Europe and many parts of world led to the rise of the Zionism...",
+            "Read more": "./blogs/Israel-Palestine-confilct.html",
+            "image":"https://i.postimg.cc/SKVh3FSF/191813413-376979517072292-1156238462959470805-n.jpg"
+        },
+        {
+            "id": 13,
+            "name": "National solar mission",
+            "content": "The Government of India launched National Action Plan for Climate Change (NAPCC) in the year 2008. It is India's strategy to combat the challenges of Climate Change.",
+            "Read more": "./blogs/National-solar-mission.html",
+            "image":"https://i.postimg.cc/9MTZx6Jr/250665611-1377632859319369-7279733679214606577-n.jpg"
+        },
+        {
+            "id": 14,
+             "name": "Maratha state reservation 2018",
+            "content": "On 5 May 2021, the Supreme Court struck down the Maharashtra State Reservation for Socially and Educationally Backward Classes Act, 2018. Firstly, let's take...",
+            "Read more": "./blogs/Maratha-state-reservation-2018.html",
+            "image":"https://i.postimg.cc/QNTzWG28/196389871-762234234430650-6839531102559443251-n.jpg"
+                },
+                {
+                    "id": 15,
+                    "name": "The Information Technology Rules, 2021",
+                    "content": "The update in the privacy policy of the messaging app required the user to allow sharing of their data while communicating with the selected businesses within...",
+                    "Read more": "./blogs/The-information-technology-rule-2021.html",
+                    "image":"https://i.postimg.cc/0QPrKVMR/202370895-1928500967315756-5435637520150340035-n.jpg"
+                },
+                {
+                    "id": 16,
+                    "name": "World Employment and Social Outlook",
+                    "content": "The International Labour Organisation recently released its flagship report on “World Employment and Social Outlook: Trends 2021”. The report comprehends the Global Pandemic's negative...",
+                    "Read more": "./blogs/World-employment-and-social-outlook.html",
+                    "image":"https://i.postimg.cc/L5fS5qpL/198562653-931093147743586-5462154061409398726-n.jpg"
+                },
+                {
+                    "id": 17,
+                    "name": "FIST Program",
+                    "content": "The Department of Science & Technology(DST) is a division under the Ministry of Science & Technology of India. It aims to promote fields of science & technology and serve as a core department in the country to organize...",
+                    "Read more": "./blogs/FIST-program.html",
+                    "image":"https://i.postimg.cc/280p8yfF/252060163-2027913374041181-3447732592430065108-n.png"
+                },
+                {
+                    "id": 18,
+                    "name": "Recent Developments in Afghanistan Crisis",
+                    "content": "If the top 5 most significant international unsolved disputes are listed, Afghanistan would surely be one of them. Three trillion dollars is the monetary cost that the US has endured in...",
+                    "Read more": "./blogs/Recent-development-in-Afghanisthan-crisis.html",
+                    "image":"https://i.postimg.cc/rFrrJXZW/233112453-2574339919378520-5780656819065229425-n.jpg"
+                },
+                {
+                    "id": 19,
+                    "name": "UP Population Bill, 2021",
+                    "content": "The Uttar Pradesh State Law Commission has put out the draft of THE UTTAR PRADESH POPULATION(CONTROL, STABILISATION AND WELFARE) BILL, 2021 for...",
+                    "Read more": "./blogs/UP-population-bill-2021.html",
+                    "image":"https://i.postimg.cc/yN4tdZW5/210865818-895441331183701-7604091457868114889-n.jpg"
+                },
+                {
+                    "id": 20,
+                    "name": "Privatisation and its Impact on Economy",
+                    "content": "Privatization- the transfer of ownership, both in permanent and long-term lease, of a prior state or public property to individuals or groups who intend to use it for private purposes...",
+                    "Read more": "./blogs/Privatisation-and-its-impact-on-economy.html",
+                    "image":"https://i.postimg.cc/BQcP1VSL/269676345-401038405137928-1752413456528977206-n.jpg"
+                }
+        
+    ]
+}
